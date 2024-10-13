@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>WinstonBrown.me</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>A blog</description>
+      <language>en-us</language>
+      <managingEditor>clouddevsolutions@gmail.com (Winston Brown)</managingEditor>
+      <webMaster>clouddevsolutions@gmail.com (Winston Brown)</webMaster>
+      <lastBuildDate>Fri, 04 Oct 2024 12:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/functions/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/creating-functions-in-postgresql</guid>
+    <title>Creating Functions in PostgreSQL</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/creating-functions-in-postgresql</link>
+    <description>Learn how to create a simple function in PostgreSQL to average numbers from a table.</description>
+    <pubDate>Fri, 04 Oct 2024 12:00:00 GMT</pubDate>
+    <author>clouddevsolutions@gmail.com (Winston Brown)</author>
+    <category>PostgreSQL</category><category>database</category><category>functions</category><category>SQL</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,4 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYMENT_SOURCE # No additional tasks

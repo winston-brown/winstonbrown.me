@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>WinstonBrown.me</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>A blog</description>
+      <language>en-us</language>
+      <managingEditor>clouddevsolutions@gmail.com (Winston Brown)</managingEditor>
+      <webMaster>clouddevsolutions@gmail.com (Winston Brown)</webMaster>
+      <lastBuildDate>Tue, 03 Oct 2023 12:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/scoped/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/understanding-service-lifetimes-in-asp-dot-net-core</guid>
+    <title>Understanding Service Lifetimes in ASP.NET Core</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/understanding-service-lifetimes-in-asp-dot-net-core</link>
+    <description>A deep dive into the different service lifetimes in ASP.NET Core and when to use Transient, Scoped, and Singleton services.</description>
+    <pubDate>Tue, 03 Oct 2023 12:00:00 GMT</pubDate>
+    <author>clouddevsolutions@gmail.com (Winston Brown)</author>
+    <category>dependency injection</category><category>aspnet core</category><category>service lifetimes</category><category>transient</category><category>scoped</category><category>singleton</category>
+  </item>
+
+    </channel>
+  </rss>

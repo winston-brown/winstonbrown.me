@@ -1,0 +1,114 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>WinstonBrown.me</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>A blog</description>
+      <language>en-us</language>
+      <managingEditor>clouddevsolutions@gmail.com (Winston Brown)</managingEditor>
+      <webMaster>clouddevsolutions@gmail.com (Winston Brown)</webMaster>
+      <lastBuildDate>Sun, 13 Oct 2024 15:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/keyboard-shortcuts-for-vlc-player-mac</guid>
+    <title>VLC Player Keyboard Shortcuts for Mac: Your Quick Guide</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/keyboard-shortcuts-for-vlc-player-mac</link>
+    <description>Master VLC Player on macOS with this guide to essential keyboard shortcuts. Download the PDF for a complete reference.</description>
+    <pubDate>Sun, 13 Oct 2024 15:00:00 GMT</pubDate>
+    <author>clouddevsolutions@gmail.com (Winston Brown)</author>
+    <category>VLC</category><category>keyboard shortcuts</category><category>macOS</category><category>VideoLAN</category><category>media player</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/introducing-canvas-for-chatgpt-five-reasons-developers-should-be-excited</guid>
+    <title>Introducing Canvas for ChatGPT: 5 Reasons Developers Should Be Excited</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/introducing-canvas-for-chatgpt-five-reasons-developers-should-be-excited</link>
+    <description>Discover why OpenAI&#39;s new Canvas feature for ChatGPT is a game changer for developers. Learn about its collaborative capabilities, visual workspace, and more.</description>
+    <pubDate>Wed, 09 Oct 2024 15:00:00 GMT</pubDate>
+    <author>clouddevsolutions@gmail.com (Winston Brown)</author>
+    <category>OpenAI</category><category>Canvas</category><category>ChatGPT</category><category>developer tools</category><category>collaboration</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/top-resources-for-finding-software-engineering-roles</guid>
+    <title>Top Resources for Finding Software Engineering Roles</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/top-resources-for-finding-software-engineering-roles</link>
+    <description>A comprehensive guide to the best online resources for software engineers seeking new job opportunities. This article covers popular job boards, state-sponsored resources, and tips for staying ahead in a competitive job market.</description>
+    <pubDate>Sun, 06 Oct 2024 14:00:00 GMT</pubDate>
+    <author>clouddevsolutions@gmail.com (Winston Brown)</author>
+    <category>job search</category><category>software engineering</category><category>job boards</category><category>career resources</category><category>full stack engineering</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/state-sponsored-job-boards</guid>
+    <title>State-Sponsored Job Boards</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/state-sponsored-job-boards</link>
+    <description>A guide to state-sponsored job boards across the U.S. and its territories, helping to find local job opportunities that may not be listed on larger platforms.</description>
+    <pubDate>Sat, 05 Oct 2024 15:00:00 GMT</pubDate>
+    <author>clouddevsolutions@gmail.com (Winston Brown)</author>
+    <category>software engineering</category><category>job search</category><category>state job boards</category><category>career resources</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/creating-functions-in-postgresql</guid>
+    <title>Creating Functions in PostgreSQL</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/creating-functions-in-postgresql</link>
+    <description>Learn how to create a simple function in PostgreSQL to average numbers from a table.</description>
+    <pubDate>Fri, 04 Oct 2024 12:00:00 GMT</pubDate>
+    <author>clouddevsolutions@gmail.com (Winston Brown)</author>
+    <category>PostgreSQL</category><category>database</category><category>functions</category><category>SQL</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/mastering-python-list-comprehension</guid>
+    <title>Mastering Python List Comprehension for Performance and Elegance</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/mastering-python-list-comprehension</link>
+    <description>Learn the ins and outs of Python list comprehension and how it enhances code performance with examples for various use cases.</description>
+    <pubDate>Fri, 04 Oct 2024 12:00:00 GMT</pubDate>
+    <author>clouddevsolutions@gmail.com (Winston Brown)</author>
+    <category>Python</category><category>list comprehension</category><category>performance</category><category>code optimization</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/the-future-of-hybrid-ai-human-models</guid>
+    <title>The Future of Hybrid AI/Human Models</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/the-future-of-hybrid-ai-human-models</link>
+    <description>Exploring how AI will not replace humans but rather enhance human creativity and productivity through collaborative models.</description>
+    <pubDate>Thu, 03 Oct 2024 14:00:00 GMT</pubDate>
+    <author>clouddevsolutions@gmail.com (Winston Brown)</author>
+    <category>AI</category><category>hybrid models</category><category>human-AI collaboration</category><category>future of AI</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/generative-art/roborilla</guid>
+    <title>Roborilla</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/generative-art/roborilla</link>
+    <description>Roborilla</description>
+    <pubDate>Thu, 03 Oct 2024 14:00:00 GMT</pubDate>
+    <author>clouddevsolutions@gmail.com (Winston Brown)</author>
+    <category>generative art</category><category>robots</category><category>roborilla</category><category>dall-e</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/understanding-service-lifetimes-in-asp-dot-net-core</guid>
+    <title>Understanding Service Lifetimes in ASP.NET Core</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/understanding-service-lifetimes-in-asp-dot-net-core</link>
+    <description>A deep dive into the different service lifetimes in ASP.NET Core and when to use Transient, Scoped, and Singleton services.</description>
+    <pubDate>Tue, 03 Oct 2023 12:00:00 GMT</pubDate>
+    <author>clouddevsolutions@gmail.com (Winston Brown)</author>
+    <category>dependency injection</category><category>aspnet core</category><category>service lifetimes</category><category>transient</category><category>scoped</category><category>singleton</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/understanding-dependency-injection</guid>
+    <title>Understanding Dependency Injection</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/understanding-dependency-injection</link>
+    <description>A primer on Dependency Injection and its importance in modern software development.</description>
+    <pubDate>Tue, 03 Oct 2023 02:18:00 GMT</pubDate>
+    <author>clouddevsolutions@gmail.com (Winston Brown)</author>
+    <category>dependency injection</category><category>java</category><category>csharp</category><category>software design</category>
+  </item>
+
+    </channel>
+  </rss>

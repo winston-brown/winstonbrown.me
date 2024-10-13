@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>WinstonBrown.me</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>A blog</description>
+      <language>en-us</language>
+      <managingEditor>clouddevsolutions@gmail.com (Winston Brown)</managingEditor>
+      <webMaster>clouddevsolutions@gmail.com (Winston Brown)</webMaster>
+      <lastBuildDate>Wed, 09 Oct 2024 15:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/developer-tools/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/introducing-canvas-for-chatgpt-five-reasons-developers-should-be-excited</guid>
+    <title>Introducing Canvas for ChatGPT: 5 Reasons Developers Should Be Excited</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/introducing-canvas-for-chatgpt-five-reasons-developers-should-be-excited</link>
+    <description>Discover why OpenAI&#39;s new Canvas feature for ChatGPT is a game changer for developers. Learn about its collaborative capabilities, visual workspace, and more.</description>
+    <pubDate>Wed, 09 Oct 2024 15:00:00 GMT</pubDate>
+    <author>clouddevsolutions@gmail.com (Winston Brown)</author>
+    <category>OpenAI</category><category>Canvas</category><category>ChatGPT</category><category>developer tools</category><category>collaboration</category>
+  </item>
+
+    </channel>
+  </rss>

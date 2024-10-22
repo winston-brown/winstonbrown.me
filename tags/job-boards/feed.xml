@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>WinstonBrown.me</title>
-      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
-      <description>A blog</description>
+      <link>https://winstonbrown.me/blog</link>
+      <description>winstonbrown.me is a personal blog where Winston Brown shares his journey and insights as a self-taught software engineer. The blog covers a variety of topics, including software development, personal projects, career advice, and explorations into new technologies. It reflects Winston&#39;s passion for continuous learning, problem-solving, and his unique perspective on the tech world.</description>
       <language>en-us</language>
       <managingEditor>clouddevsolutions@gmail.com (Winston Brown)</managingEditor>
       <webMaster>clouddevsolutions@gmail.com (Winston Brown)</webMaster>
       <lastBuildDate>Sun, 06 Oct 2024 14:00:00 GMT</lastBuildDate>
-      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/job-boards/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://winstonbrown.me/tags/job-boards/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/top-resources-for-finding-software-engineering-roles</guid>
+    <guid>https://winstonbrown.me/blog/top-resources-for-finding-software-engineering-roles</guid>
     <title>Top Resources for Finding Software Engineering Roles</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/top-resources-for-finding-software-engineering-roles</link>
+    <link>https://winstonbrown.me/blog/top-resources-for-finding-software-engineering-roles</link>
     <description>A comprehensive guide to the best online resources for software engineers seeking new job opportunities. This article covers popular job boards, state-sponsored resources, and tips for staying ahead in a competitive job market.</description>
     <pubDate>Sun, 06 Oct 2024 14:00:00 GMT</pubDate>
     <author>clouddevsolutions@gmail.com (Winston Brown)</author>

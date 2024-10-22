@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>WinstonBrown.me</title>
-      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
-      <description>A blog</description>
+      <link>https://winstonbrown.me/blog</link>
+      <description>winstonbrown.me is a personal blog where Winston Brown shares his journey and insights as a self-taught software engineer. The blog covers a variety of topics, including software development, personal projects, career advice, and explorations into new technologies. It reflects Winston&#39;s passion for continuous learning, problem-solving, and his unique perspective on the tech world.</description>
       <language>en-us</language>
       <managingEditor>clouddevsolutions@gmail.com (Winston Brown)</managingEditor>
       <webMaster>clouddevsolutions@gmail.com (Winston Brown)</webMaster>
       <lastBuildDate>Sat, 19 Oct 2024 12:00:00 GMT</lastBuildDate>
-      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/innotech/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://winstonbrown.me/tags/innotech/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/innotech-oklahoma-conference-2024</guid>
+    <guid>https://winstonbrown.me/blog/innotech-oklahoma-conference-2024</guid>
     <title>InnoTech Oklahoma Conference 2024: Must-Attend Featured Events and ThunderPlains Highlights</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/innotech-oklahoma-conference-2024</link>
+    <link>https://winstonbrown.me/blog/innotech-oklahoma-conference-2024</link>
     <description>Explore the exciting events at InnoTech Oklahoma 2024, including key highlights like the ThunderPlains Dev Conference. Discover featured sessions, speakers, and must-attend opportunities.</description>
     <pubDate>Sat, 19 Oct 2024 12:00:00 GMT</pubDate>
     <author>clouddevsolutions@gmail.com (Winston Brown)</author>

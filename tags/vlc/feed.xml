@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>WinstonBrown.me</title>
-      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
-      <description>A blog</description>
+      <link>https://winstonbrown.me/blog</link>
+      <description>winstonbrown.me is a personal blog where Winston Brown shares his journey and insights as a self-taught software engineer. The blog covers a variety of topics, including software development, personal projects, career advice, and explorations into new technologies. It reflects Winston&#39;s passion for continuous learning, problem-solving, and his unique perspective on the tech world.</description>
       <language>en-us</language>
       <managingEditor>clouddevsolutions@gmail.com (Winston Brown)</managingEditor>
       <webMaster>clouddevsolutions@gmail.com (Winston Brown)</webMaster>
       <lastBuildDate>Sun, 13 Oct 2024 15:00:00 GMT</lastBuildDate>
-      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/vlc/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://winstonbrown.me/tags/vlc/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/keyboard-shortcuts-for-vlc-player-mac</guid>
+    <guid>https://winstonbrown.me/blog/keyboard-shortcuts-for-vlc-player-mac</guid>
     <title>VLC Player Keyboard Shortcuts for Mac: Cheatsheet</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/keyboard-shortcuts-for-vlc-player-mac</link>
+    <link>https://winstonbrown.me/blog/keyboard-shortcuts-for-vlc-player-mac</link>
     <description>Master VLC Player on macOS with this guide to essential keyboard shortcuts. Download the PDF for a complete reference.</description>
     <pubDate>Sun, 13 Oct 2024 15:00:00 GMT</pubDate>
     <author>clouddevsolutions@gmail.com (Winston Brown)</author>

@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>WinstonBrown.me</title>
-      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
-      <description>A blog</description>
+      <link>https://winstonbrown.me/blog</link>
+      <description>winstonbrown.me is a personal blog where Winston Brown shares his journey and insights as a self-taught software engineer. The blog covers a variety of topics, including software development, personal projects, career advice, and explorations into new technologies. It reflects Winston&#39;s passion for continuous learning, problem-solving, and his unique perspective on the tech world.</description>
       <language>en-us</language>
       <managingEditor>clouddevsolutions@gmail.com (Winston Brown)</managingEditor>
       <webMaster>clouddevsolutions@gmail.com (Winston Brown)</webMaster>
       <lastBuildDate>Sat, 05 Oct 2024 15:00:00 GMT</lastBuildDate>
-      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/state-job-boards/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://winstonbrown.me/tags/state-job-boards/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/state-sponsored-job-boards</guid>
+    <guid>https://winstonbrown.me/blog/state-sponsored-job-boards</guid>
     <title>State-Sponsored Job Boards</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/state-sponsored-job-boards</link>
+    <link>https://winstonbrown.me/blog/state-sponsored-job-boards</link>
     <description>A guide to state-sponsored job boards across the U.S. and its territories, helping to find local job opportunities that may not be listed on larger platforms.</description>
     <pubDate>Sat, 05 Oct 2024 15:00:00 GMT</pubDate>
     <author>clouddevsolutions@gmail.com (Winston Brown)</author>

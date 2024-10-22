@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>WinstonBrown.me</title>
-      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
-      <description>A blog</description>
+      <link>https://winstonbrown.me/blog</link>
+      <description>winstonbrown.me is a personal blog where Winston Brown shares his journey and insights as a self-taught software engineer. The blog covers a variety of topics, including software development, personal projects, career advice, and explorations into new technologies. It reflects Winston&#39;s passion for continuous learning, problem-solving, and his unique perspective on the tech world.</description>
       <language>en-us</language>
       <managingEditor>clouddevsolutions@gmail.com (Winston Brown)</managingEditor>
       <webMaster>clouddevsolutions@gmail.com (Winston Brown)</webMaster>
       <lastBuildDate>Wed, 09 Oct 2024 15:00:00 GMT</lastBuildDate>
-      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/developer-tools/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://winstonbrown.me/tags/developer-tools/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/introducing-canvas-for-chatgpt-five-reasons-developers-should-be-excited</guid>
+    <guid>https://winstonbrown.me/blog/introducing-canvas-for-chatgpt-five-reasons-developers-should-be-excited</guid>
     <title>Introducing Canvas for ChatGPT: 5 Reasons Developers Should Be Excited</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/introducing-canvas-for-chatgpt-five-reasons-developers-should-be-excited</link>
+    <link>https://winstonbrown.me/blog/introducing-canvas-for-chatgpt-five-reasons-developers-should-be-excited</link>
     <description>Discover why OpenAI&#39;s new Canvas feature for ChatGPT is a game changer for developers. Learn about its collaborative capabilities, visual workspace, and more.</description>
     <pubDate>Wed, 09 Oct 2024 15:00:00 GMT</pubDate>
     <author>clouddevsolutions@gmail.com (Winston Brown)</author>

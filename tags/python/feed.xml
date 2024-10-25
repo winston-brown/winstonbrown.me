@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>clouddevsolutions@gmail.com (Winston Brown)</managingEditor>
       <webMaster>clouddevsolutions@gmail.com (Winston Brown)</webMaster>
-      <lastBuildDate>Fri, 04 Oct 2024 12:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 23 Oct 2024 15:00:00 GMT</lastBuildDate>
       <atom:link href="https://winstonbrown.me/tags/python/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://winstonbrown.me/blog/exploring-fastapi-with-my-mathapi-demo</guid>
+    <title>Exploring FastAPI with My MathAPI Demo</title>
+    <link>https://winstonbrown.me/blog/exploring-fastapi-with-my-mathapi-demo</link>
+    <description>Discover how easy it is to build an API with FastAPI through my MathAPI demo, which calculates the average of a list of numbers. Learn about the features that make FastAPI a fantastic tool for developers.</description>
+    <pubDate>Wed, 23 Oct 2024 15:00:00 GMT</pubDate>
+    <author>clouddevsolutions@gmail.com (Winston Brown)</author>
+    <category>FastAPI</category><category>API development</category><category>Python</category><category>MathAPI</category><category>tutorial</category>
+  </item>
+
   <item>
     <guid>https://winstonbrown.me/blog/mastering-python-list-comprehension</guid>
     <title>Mastering Python List Comprehension for Performance and Elegance</title>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>WinstonBrown.me</title>
+      <link>https://winstonbrown.me/blog</link>
+      <description>Welcome to winstonbrown.me. I&#39;m Winston Brown, a self-taught software engineer, sharing my journey through coding, personal projects, and new technologies. Here, you&#39;ll find my insights, lessons learned, and the occasional career advice—all from my perspective as I navigate the tech world.</description>
+      <language>en-us</language>
+      <managingEditor>clouddevsolutions@gmail.com (Winston Brown)</managingEditor>
+      <webMaster>clouddevsolutions@gmail.com (Winston Brown)</webMaster>
+      <lastBuildDate>Wed, 23 Oct 2024 15:00:00 GMT</lastBuildDate>
+      <atom:link href="https://winstonbrown.me/tags/tutorial/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://winstonbrown.me/blog/exploring-fastapi-with-my-mathapi-demo</guid>
+    <title>Exploring FastAPI with My MathAPI Demo</title>
+    <link>https://winstonbrown.me/blog/exploring-fastapi-with-my-mathapi-demo</link>
+    <description>Discover how easy it is to build an API with FastAPI through my MathAPI demo, which calculates the average of a list of numbers. Learn about the features that make FastAPI a fantastic tool for developers.</description>
+    <pubDate>Wed, 23 Oct 2024 15:00:00 GMT</pubDate>
+    <author>clouddevsolutions@gmail.com (Winston Brown)</author>
+    <category>FastAPI</category><category>API development</category><category>Python</category><category>MathAPI</category><category>tutorial</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -7,9 +7,29 @@
       <language>en-us</language>
       <managingEditor>clouddevsolutions@gmail.com (Winston Brown)</managingEditor>
       <webMaster>clouddevsolutions@gmail.com (Winston Brown)</webMaster>
-      <lastBuildDate>Sat, 19 Oct 2024 12:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 24 Oct 2024 12:00:00 GMT</lastBuildDate>
       <atom:link href="https://winstonbrown.me/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://winstonbrown.me/blog/understanding-mvc</guid>
+    <title>Understanding MVC with Angular, MongoDB, and NestJS: A Practical Guide</title>
+    <link>https://winstonbrown.me/blog/understanding-mvc</link>
+    <description>Learn how the MVC pattern works with Angular as the front end, NestJS as the backend API, and MongoDB as the database, using the /average endpoint from a MathAPI example.</description>
+    <pubDate>Thu, 24 Oct 2024 12:00:00 GMT</pubDate>
+    <author>clouddevsolutions@gmail.com (Winston Brown)</author>
+    <category>Angular</category><category>MongoDB</category><category>NestJS</category><category>TypeScript</category><category>API</category><category>Web Development</category>
+  </item>
+
+  <item>
+    <guid>https://winstonbrown.me/blog/exploring-fastapi-with-my-mathapi-demo</guid>
+    <title>Exploring FastAPI with My MathAPI Demo</title>
+    <link>https://winstonbrown.me/blog/exploring-fastapi-with-my-mathapi-demo</link>
+    <description>Discover how easy it is to build an API with FastAPI through my MathAPI demo, which calculates the average of a list of numbers. Learn about the features that make FastAPI a fantastic tool for developers.</description>
+    <pubDate>Wed, 23 Oct 2024 15:00:00 GMT</pubDate>
+    <author>clouddevsolutions@gmail.com (Winston Brown)</author>
+    <category>FastAPI</category><category>API development</category><category>Python</category><category>MathAPI</category><category>tutorial</category>
+  </item>
+
   <item>
     <guid>https://winstonbrown.me/blog/innotech-oklahoma-conference-2024</guid>
     <title>InnoTech Oklahoma Conference 2024: Must-Attend Featured Events and ThunderPlains Highlights</title>

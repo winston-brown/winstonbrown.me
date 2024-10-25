@@ -30,5 +30,15 @@
     <category>Python</category><category>list comprehension</category><category>performance</category><category>code optimization</category>
   </item>
 
+  <item>
+    <guid>https://winstonbrown.me/blog/python-cheatsheet</guid>
+    <title>Python Cheatsheet for Intermediate to Advanced Users</title>
+    <link>https://winstonbrown.me/blog/python-cheatsheet</link>
+    <description>A concise Python cheatsheet covering essential shortcuts and foundational knowledge for intermediate to advanced users, perfect for quick reference.</description>
+    <pubDate>Fri, 25 Oct 2024 15:00:00 GMT</pubDate>
+    <author>clouddevsolutions@gmail.com (Winston Brown)</author>
+    <category>Python</category><category>programming</category><category>coding tips</category><category>cheatsheet</category><category>software development</category>
+  </item>
+
     </channel>
   </rss>

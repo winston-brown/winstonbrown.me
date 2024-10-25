@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>clouddevsolutions@gmail.com (Winston Brown)</managingEditor>
       <webMaster>clouddevsolutions@gmail.com (Winston Brown)</webMaster>
-      <lastBuildDate>Thu, 24 Oct 2024 12:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 25 Oct 2024 15:00:00 GMT</lastBuildDate>
       <atom:link href="https://winstonbrown.me/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://winstonbrown.me/blog/python-cheatsheet</guid>
+    <title>Python Cheatsheet for Intermediate to Advanced Users</title>
+    <link>https://winstonbrown.me/blog/python-cheatsheet</link>
+    <description>A concise Python cheatsheet covering essential shortcuts and foundational knowledge for intermediate to advanced users, perfect for quick reference.</description>
+    <pubDate>Fri, 25 Oct 2024 15:00:00 GMT</pubDate>
+    <author>clouddevsolutions@gmail.com (Winston Brown)</author>
+    <category>Python</category><category>programming</category><category>coding tips</category><category>cheatsheet</category><category>software development</category>
+  </item>
+
   <item>
     <guid>https://winstonbrown.me/blog/understanding-mvc</guid>
     <title>Understanding MVC with Angular, MongoDB, and NestJS: A Practical Guide</title>

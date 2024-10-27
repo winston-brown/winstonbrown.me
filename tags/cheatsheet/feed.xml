@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>clouddevsolutions@gmail.com (Winston Brown)</managingEditor>
       <webMaster>clouddevsolutions@gmail.com (Winston Brown)</webMaster>
-      <lastBuildDate>Fri, 25 Oct 2024 15:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 25 Oct 2024 16:00:00 GMT</lastBuildDate>
       <atom:link href="https://winstonbrown.me/tags/cheatsheet/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://winstonbrown.me/blog/nodejs-cheatsheet</guid>
+    <title>Node.js vs JavaScript: Cheat Sheet for Intermediate to Advanced Users</title>
+    <link>https://winstonbrown.me/blog/nodejs-cheatsheet</link>
+    <description>A detailed cheat sheet outlining key shortcuts and concepts in Node.js and JavaScript, clarifying the differences and applicability of each.</description>
+    <pubDate>Fri, 25 Oct 2024 16:00:00 GMT</pubDate>
+    <author>clouddevsolutions@gmail.com (Winston Brown)</author>
+    <category>Node.js</category><category>JavaScript</category><category>coding tips</category><category>cheatsheet</category><category>software development</category>
+  </item>
+
   <item>
     <guid>https://winstonbrown.me/blog/python-cheatsheet</guid>
     <title>Python Cheatsheet for Intermediate to Advanced Users</title>

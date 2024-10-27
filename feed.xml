@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>clouddevsolutions@gmail.com (Winston Brown)</managingEditor>
       <webMaster>clouddevsolutions@gmail.com (Winston Brown)</webMaster>
-      <lastBuildDate>Fri, 25 Oct 2024 16:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 27 Oct 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://winstonbrown.me/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://winstonbrown.me/blog/nasa-technology-transfer-program</guid>
+    <title>Unlocking Innovation: How NASA&#39;s Technology Transfer Program Powers Your Next Big Idea</title>
+    <link>https://winstonbrown.me/blog/nasa-technology-transfer-program</link>
+    <description>Explore how NASA&#39;s Technology Transfer Program makes cutting-edge innovations accessible to everyone, fostering advancements across industries. Discover success stories of projects that utilized NASA technology to achieve groundbreaking results.</description>
+    <pubDate>Sun, 27 Oct 2024 00:00:00 GMT</pubDate>
+    <author>clouddevsolutions@gmail.com (Winston Brown)</author>
+    <category>nasa</category><category>technology</category><category>innovation</category><category>tech transfer</category><category>startups</category>
+  </item>
+
   <item>
     <guid>https://winstonbrown.me/blog/nodejs-cheatsheet</guid>
     <title>Node.js vs JavaScript: Cheat Sheet for Intermediate to Advanced Users</title>
@@ -38,16 +48,6 @@
     <pubDate>Thu, 24 Oct 2024 12:00:00 GMT</pubDate>
     <author>clouddevsolutions@gmail.com (Winston Brown)</author>
     <category>Angular</category><category>MongoDB</category><category>NestJS</category><category>TypeScript</category><category>API</category><category>Web Development</category>
-  </item>
-
-  <item>
-    <guid>https://winstonbrown.me/blog/exploring-fastapi-with-my-mathapi-demo</guid>
-    <title>Exploring FastAPI with My MathAPI Demo</title>
-    <link>https://winstonbrown.me/blog/exploring-fastapi-with-my-mathapi-demo</link>
-    <description>Discover how easy it is to build an API with FastAPI through my MathAPI demo, which calculates the average of a list of numbers. Learn about the features that make FastAPI a fantastic tool for developers.</description>
-    <pubDate>Wed, 23 Oct 2024 15:00:00 GMT</pubDate>
-    <author>clouddevsolutions@gmail.com (Winston Brown)</author>
-    <category>FastAPI</category><category>API development</category><category>Python</category><category>MathAPI</category><category>tutorial</category>
   </item>
 
   <item>
